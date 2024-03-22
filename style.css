@@ -8,7 +8,7 @@
 
 /* Body styles */
 body {
-	background: linear-gradient(-45deg, #92940a, #fcba03,#a88532, #e8edaf);
+	background: linear-gradient(-45deg, #f2ece6, #d7c8b8,#f0d597, #ded3a9);
 	background-size: 100% 100%;
 	animation: gradient 5s ease infinite;
 	height: 1vh;
@@ -250,20 +250,20 @@ More Information {
 .btn-fill {
   padding: 15px 75px;
   background: rgba(0,161,249,0.7);
-  color: #0299f7;
+  color: #dab842;
   position: fixed;
   bottom: 10px;
   right: 5px;
-  border: 1px solid #0299f7;
+  border: 1px solid #dab842;
   z-index: 1;
   overflow: hidden;
 }
 .btn-fill:hover span {
-  color: #263238;
+  color: #c6a226;
   transition: all 0.2s;
 }
 .btn-fill::after {
-  background: #0299f7;
+  background: #c6a226;
   content: "";
   height: 100%;
   width: 100%;
