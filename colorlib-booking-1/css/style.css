@@ -176,7 +176,7 @@ button {
 	background: linear-gradient(0deg, rgba(5,255,155,1) 0%, rgba(10,240,148,1) 100%);
 	}
 	.btn-5:hover {
-	  color: #05ff9b;
+	  color: #FFD700;
 	  background: transparent;
 	  box-shadow:none;
 	}
@@ -188,7 +188,7 @@ button {
 	  right:0;
 	  height:12px;
 	  width:0;
-	  background:#05ff9b;
+	  background: #FFD700;
 	  box-shadow:
 	   -1px -1px 5px 0px #fff,
 	   7px 7px 20px 0px #0003,
